@@ -1,0 +1,7 @@
+E:\git\wipro-training-26\practice prob\RevWord\RevWord\obj\Debug\RevWord.csproj.AssemblyReference.cache
+E:\git\wipro-training-26\practice prob\RevWord\RevWord\obj\Debug\RevWord.csproj.CoreCompileInputs.cache
+E:\git\wipro-training-26\practice prob\RevWord\RevWord\bin\Debug\RevWord.exe.config
+E:\git\wipro-training-26\practice prob\RevWord\RevWord\bin\Debug\RevWord.exe
+E:\git\wipro-training-26\practice prob\RevWord\RevWord\bin\Debug\RevWord.pdb
+E:\git\wipro-training-26\practice prob\RevWord\RevWord\obj\Debug\RevWord.exe
+E:\git\wipro-training-26\practice prob\RevWord\RevWord\obj\Debug\RevWord.pdb

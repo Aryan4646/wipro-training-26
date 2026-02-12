@@ -1,0 +1,7 @@
+E:\git\wipro-training-26\practice prob\Palindrome\Palindrome\bin\Debug\Palindrome.exe.config
+E:\git\wipro-training-26\practice prob\Palindrome\Palindrome\bin\Debug\Palindrome.exe
+E:\git\wipro-training-26\practice prob\Palindrome\Palindrome\bin\Debug\Palindrome.pdb
+E:\git\wipro-training-26\practice prob\Palindrome\Palindrome\obj\Debug\Palindrome.csproj.AssemblyReference.cache
+E:\git\wipro-training-26\practice prob\Palindrome\Palindrome\obj\Debug\Palindrome.csproj.CoreCompileInputs.cache
+E:\git\wipro-training-26\practice prob\Palindrome\Palindrome\obj\Debug\Palindrome.exe
+E:\git\wipro-training-26\practice prob\Palindrome\Palindrome\obj\Debug\Palindrome.pdb
