@@ -1,0 +1,7 @@
+E:\git\wipro-training-26\mockTest_13_feb\mockTest_13_feb\bin\Debug\mockTest_13_feb.exe.config
+E:\git\wipro-training-26\mockTest_13_feb\mockTest_13_feb\bin\Debug\mockTest_13_feb.exe
+E:\git\wipro-training-26\mockTest_13_feb\mockTest_13_feb\bin\Debug\mockTest_13_feb.pdb
+E:\git\wipro-training-26\mockTest_13_feb\mockTest_13_feb\obj\Debug\mockTest_13_feb.csproj.AssemblyReference.cache
+E:\git\wipro-training-26\mockTest_13_feb\mockTest_13_feb\obj\Debug\mockTest_13_feb.csproj.CoreCompileInputs.cache
+E:\git\wipro-training-26\mockTest_13_feb\mockTest_13_feb\obj\Debug\mockTest_13_feb.exe
+E:\git\wipro-training-26\mockTest_13_feb\mockTest_13_feb\obj\Debug\mockTest_13_feb.pdb
