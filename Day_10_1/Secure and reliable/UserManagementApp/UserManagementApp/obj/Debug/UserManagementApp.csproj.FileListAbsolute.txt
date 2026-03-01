@@ -1,0 +1,134 @@
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\xunit.abstractions.dll
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\UserManagementApp.exe.config
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\UserManagementApp.exe
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\UserManagementApp.pdb
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\Microsoft.TestPlatform.CoreUtilities.dll
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\Serilog.dll
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\Serilog.Sinks.File.dll
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\System.Buffers.dll
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\System.Collections.Immutable.dll
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\System.Memory.dll
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\System.Numerics.Vectors.dll
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\System.Reflection.Metadata.dll
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\System.Threading.Channels.dll
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\xunit.assert.dll
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\xunit.core.dll
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\xunit.execution.desktop.dll
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\Serilog.xml
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\Serilog.Sinks.File.xml
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\System.Buffers.xml
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\System.Collections.Immutable.xml
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\System.Memory.xml
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\System.Numerics.Vectors.xml
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\System.Reflection.Metadata.xml
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\System.Threading.Channels.xml
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\xunit.assert.xml
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\xunit.core.xml
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\xunit.execution.desktop.xml
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\.net\Day 9\UserManagementApp\UserManagementApp\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\.net\Day 9\UserManagementApp\UserManagementApp\obj\Debug\UserManagementApp.csproj.AssemblyReference.cache
+D:\.net\Day 9\UserManagementApp\UserManagementApp\obj\Debug\UserManagementApp.csproj.CoreCompileInputs.cache
+D:\.net\Day 9\UserManagementApp\UserManagementApp\obj\Debug\UserMana.5F5CA2E1.Up2Date
+D:\.net\Day 9\UserManagementApp\UserManagementApp\obj\Debug\UserManagementApp.exe
+D:\.net\Day 9\UserManagementApp\UserManagementApp\obj\Debug\UserManagementApp.pdb
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\xunit.abstractions.dll
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\UserManagementApp.exe.config
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\UserManagementApp.exe
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\UserManagementApp.pdb
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\Microsoft.TestPlatform.CoreUtilities.dll
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\Microsoft.TestPlatform.PlatformAbstractions.dll
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\Serilog.dll
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\Serilog.Sinks.File.dll
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\System.Buffers.dll
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\System.Collections.Immutable.dll
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\System.Memory.dll
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\System.Numerics.Vectors.dll
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\System.Reflection.Metadata.dll
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\System.Threading.Channels.dll
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\xunit.assert.dll
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\xunit.core.dll
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\xunit.execution.desktop.dll
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\Serilog.xml
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\Serilog.Sinks.File.xml
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\System.Buffers.xml
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\System.Collections.Immutable.xml
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\System.Memory.xml
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\System.Numerics.Vectors.xml
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\System.Reflection.Metadata.xml
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\System.Threading.Channels.xml
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\xunit.assert.xml
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\xunit.core.xml
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\xunit.execution.desktop.xml
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\obj\Debug\UserManagementApp.csproj.AssemblyReference.cache
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\obj\Debug\UserManagementApp.csproj.CoreCompileInputs.cache
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\obj\Debug\UserMana.5F5CA2E1.Up2Date
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\obj\Debug\UserManagementApp.exe
+E:\git\wipro-training-26\Day_10_1\Secure and reliable\UserManagementApp\UserManagementApp\obj\Debug\UserManagementApp.pdb

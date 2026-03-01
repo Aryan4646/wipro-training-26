@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.net\\Day 9\\UserManagementApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60F0EC5A-7C6D-4DD4-896F-9448F397A0E3}|UserManagementApp\\UserManagementApp.csproj|d:\\.net\\day 9\\usermanagementapp\\usermanagementapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F0EC5A-7C6D-4DD4-896F-9448F397A0E3}|UserManagementApp\\UserManagementApp.csproj|solutionrelative:usermanagementapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F0EC5A-7C6D-4DD4-896F-9448F397A0E3}|UserManagementApp\\UserManagementApp.csproj|d:\\.net\\day 9\\usermanagementapp\\usermanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F0EC5A-7C6D-4DD4-896F-9448F397A0E3}|UserManagementApp\\UserManagementApp.csproj|solutionrelative:usermanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F0EC5A-7C6D-4DD4-896F-9448F397A0E3}|UserManagementApp\\UserManagementApp.csproj|d:\\.net\\day 9\\usermanagementapp\\usermanagementapp\\tests\\encryptiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F0EC5A-7C6D-4DD4-896F-9448F397A0E3}|UserManagementApp\\UserManagementApp.csproj|solutionrelative:usermanagementapp\\tests\\encryptiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F0EC5A-7C6D-4DD4-896F-9448F397A0E3}|UserManagementApp\\UserManagementApp.csproj|d:\\.net\\day 9\\usermanagementapp\\usermanagementapp\\tests\\authtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F0EC5A-7C6D-4DD4-896F-9448F397A0E3}|UserManagementApp\\UserManagementApp.csproj|solutionrelative:usermanagementapp\\tests\\authtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F0EC5A-7C6D-4DD4-896F-9448F397A0E3}|UserManagementApp\\UserManagementApp.csproj|d:\\.net\\day 9\\usermanagementapp\\usermanagementapp\\logging\\loggerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F0EC5A-7C6D-4DD4-896F-9448F397A0E3}|UserManagementApp\\UserManagementApp.csproj|solutionrelative:usermanagementapp\\logging\\loggerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F0EC5A-7C6D-4DD4-896F-9448F397A0E3}|UserManagementApp\\UserManagementApp.csproj|d:\\.net\\day 9\\usermanagementapp\\usermanagementapp\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F0EC5A-7C6D-4DD4-896F-9448F397A0E3}|UserManagementApp\\UserManagementApp.csproj|solutionrelative:usermanagementapp\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F0EC5A-7C6D-4DD4-896F-9448F397A0E3}|UserManagementApp\\UserManagementApp.csproj|d:\\.net\\day 9\\usermanagementapp\\usermanagementapp\\services\\encryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F0EC5A-7C6D-4DD4-896F-9448F397A0E3}|UserManagementApp\\UserManagementApp.csproj|solutionrelative:usermanagementapp\\services\\encryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F0EC5A-7C6D-4DD4-896F-9448F397A0E3}|UserManagementApp\\UserManagementApp.csproj|d:\\.net\\day 9\\usermanagementapp\\usermanagementapp\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F0EC5A-7C6D-4DD4-896F-9448F397A0E3}|UserManagementApp\\UserManagementApp.csproj|solutionrelative:usermanagementapp\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.net\\Day 9\\UserManagementApp\\UserManagementApp\\Program.cs",
+              "RelativeDocumentMoniker": "UserManagementApp\\Program.cs",
+              "ToolTip": "D:\\.net\\Day 9\\UserManagementApp\\UserManagementApp\\Program.cs",
+              "RelativeToolTip": "UserManagementApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T08:47:17.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\.net\\Day 9\\UserManagementApp\\UserManagementApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "UserManagementApp\\Models\\User.cs",
+              "ToolTip": "D:\\.net\\Day 9\\UserManagementApp\\UserManagementApp\\Models\\User.cs",
+              "RelativeToolTip": "UserManagementApp\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T08:57:56.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\.net\\Day 9\\UserManagementApp\\UserManagementApp\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "UserManagementApp\\Services\\AuthService.cs",
+              "ToolTip": "D:\\.net\\Day 9\\UserManagementApp\\UserManagementApp\\Services\\AuthService.cs",
+              "RelativeToolTip": "UserManagementApp\\Services\\AuthService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T09:17:04.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthTests.cs",
+              "DocumentMoniker": "D:\\.net\\Day 9\\UserManagementApp\\UserManagementApp\\Tests\\AuthTests.cs",
+              "RelativeDocumentMoniker": "UserManagementApp\\Tests\\AuthTests.cs",
+              "ToolTip": "D:\\.net\\Day 9\\UserManagementApp\\UserManagementApp\\Tests\\AuthTests.cs",
+              "RelativeToolTip": "UserManagementApp\\Tests\\AuthTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T09:17:43.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EncryptionTests.cs",
+              "DocumentMoniker": "D:\\.net\\Day 9\\UserManagementApp\\UserManagementApp\\Tests\\EncryptionTests.cs",
+              "RelativeDocumentMoniker": "UserManagementApp\\Tests\\EncryptionTests.cs",
+              "ToolTip": "D:\\.net\\Day 9\\UserManagementApp\\UserManagementApp\\Tests\\EncryptionTests.cs",
+              "RelativeToolTip": "UserManagementApp\\Tests\\EncryptionTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T09:18:03.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EncryptionService.cs",
+              "DocumentMoniker": "D:\\.net\\Day 9\\UserManagementApp\\UserManagementApp\\Services\\EncryptionService.cs",
+              "RelativeDocumentMoniker": "UserManagementApp\\Services\\EncryptionService.cs",
+              "ToolTip": "D:\\.net\\Day 9\\UserManagementApp\\UserManagementApp\\Services\\EncryptionService.cs",
+              "RelativeToolTip": "UserManagementApp\\Services\\EncryptionService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T09:00:49.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoggerConfig.cs",
+              "DocumentMoniker": "D:\\.net\\Day 9\\UserManagementApp\\UserManagementApp\\Logging\\LoggerConfig.cs",
+              "RelativeDocumentMoniker": "UserManagementApp\\Logging\\LoggerConfig.cs",
+              "ToolTip": "D:\\.net\\Day 9\\UserManagementApp\\UserManagementApp\\Logging\\LoggerConfig.cs",
+              "RelativeToolTip": "UserManagementApp\\Logging\\LoggerConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T09:02:59.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "D:\\.net\\Day 9\\UserManagementApp\\UserManagementApp\\Services\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "UserManagementApp\\Services\\PasswordHasher.cs",
+              "ToolTip": "D:\\.net\\Day 9\\UserManagementApp\\UserManagementApp\\Services\\PasswordHasher.cs",
+              "RelativeToolTip": "UserManagementApp\\Services\\PasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T08:58:22.057Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

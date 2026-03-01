@@ -1,0 +1,6 @@
+E:\git\wipro-training-26\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.dll
+E:\git\wipro-training-26\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.pdb
+E:\git\wipro-training-26\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.AssemblyReference.cache
+E:\git\wipro-training-26\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.CoreCompileInputs.cache
+E:\git\wipro-training-26\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.dll
+E:\git\wipro-training-26\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.pdb

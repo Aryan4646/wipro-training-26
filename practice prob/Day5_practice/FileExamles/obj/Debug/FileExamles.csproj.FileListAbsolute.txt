@@ -1,0 +1,7 @@
+D:\wipro26\Day5\FileExamles\bin\Debug\FileExamles.exe.config
+D:\wipro26\Day5\FileExamles\bin\Debug\FileExamles.exe
+D:\wipro26\Day5\FileExamles\bin\Debug\FileExamles.pdb
+D:\wipro26\Day5\FileExamles\obj\Debug\FileExamles.csproj.AssemblyReference.cache
+D:\wipro26\Day5\FileExamles\obj\Debug\FileExamles.csproj.CoreCompileInputs.cache
+D:\wipro26\Day5\FileExamles\obj\Debug\FileExamles.exe
+D:\wipro26\Day5\FileExamles\obj\Debug\FileExamles.pdb

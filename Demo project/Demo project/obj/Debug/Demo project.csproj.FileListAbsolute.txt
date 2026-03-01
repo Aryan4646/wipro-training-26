@@ -1,0 +1,7 @@
+E:\git\wipro-training-26\Demo project\Demo project\bin\Debug\Demo project.exe.config
+E:\git\wipro-training-26\Demo project\Demo project\bin\Debug\Demo project.exe
+E:\git\wipro-training-26\Demo project\Demo project\bin\Debug\Demo project.pdb
+E:\git\wipro-training-26\Demo project\Demo project\obj\Debug\Demo project.csproj.AssemblyReference.cache
+E:\git\wipro-training-26\Demo project\Demo project\obj\Debug\Demo project.csproj.CoreCompileInputs.cache
+E:\git\wipro-training-26\Demo project\Demo project\obj\Debug\Demo project.exe
+E:\git\wipro-training-26\Demo project\Demo project\obj\Debug\Demo project.pdb

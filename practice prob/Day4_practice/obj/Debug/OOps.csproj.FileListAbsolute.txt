@@ -1,0 +1,7 @@
+D:\wipro26\Day4\OOps\bin\Debug\OOps.exe.config
+D:\wipro26\Day4\OOps\bin\Debug\OOps.exe
+D:\wipro26\Day4\OOps\bin\Debug\OOps.pdb
+D:\wipro26\Day4\OOps\obj\Debug\OOps.csproj.AssemblyReference.cache
+D:\wipro26\Day4\OOps\obj\Debug\OOps.csproj.CoreCompileInputs.cache
+D:\wipro26\Day4\OOps\obj\Debug\OOps.exe
+D:\wipro26\Day4\OOps\obj\Debug\OOps.pdb

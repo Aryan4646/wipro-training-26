@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.net\\Day 8\\WiproAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F110B69-EC75-4BB2-8CC5-0C1CC2F5D293}|WiproAssignment\\WiproAssignment.csproj|d:\\.net\\day 8\\wiproassignment\\wiproassignment\\pages\\items.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F110B69-EC75-4BB2-8CC5-0C1CC2F5D293}|WiproAssignment\\WiproAssignment.csproj|solutionrelative:wiproassignment\\pages\\items.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F110B69-EC75-4BB2-8CC5-0C1CC2F5D293}|WiproAssignment\\WiproAssignment.csproj|d:\\.net\\day 8\\wiproassignment\\wiproassignment\\pages\\items.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F110B69-EC75-4BB2-8CC5-0C1CC2F5D293}|WiproAssignment\\WiproAssignment.csproj|solutionrelative:wiproassignment\\pages\\items.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F110B69-EC75-4BB2-8CC5-0C1CC2F5D293}|WiproAssignment\\WiproAssignment.csproj|d:\\.net\\day 8\\wiproassignment\\wiproassignment\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9F110B69-EC75-4BB2-8CC5-0C1CC2F5D293}|WiproAssignment\\WiproAssignment.csproj|solutionrelative:wiproassignment\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F110B69-EC75-4BB2-8CC5-0C1CC2F5D293}|WiproAssignment\\WiproAssignment.csproj|d:\\.net\\day 8\\wiproassignment\\wiproassignment\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9F110B69-EC75-4BB2-8CC5-0C1CC2F5D293}|WiproAssignment\\WiproAssignment.csproj|solutionrelative:wiproassignment\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F110B69-EC75-4BB2-8CC5-0C1CC2F5D293}|WiproAssignment\\WiproAssignment.csproj|d:\\.net\\day 8\\wiproassignment\\wiproassignment\\wwwroot\\test.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F110B69-EC75-4BB2-8CC5-0C1CC2F5D293}|WiproAssignment\\WiproAssignment.csproj|solutionrelative:wiproassignment\\wwwroot\\test.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F110B69-EC75-4BB2-8CC5-0C1CC2F5D293}|WiproAssignment\\WiproAssignment.csproj|d:\\.net\\day 8\\wiproassignment\\wiproassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F110B69-EC75-4BB2-8CC5-0C1CC2F5D293}|WiproAssignment\\WiproAssignment.csproj|solutionrelative:wiproassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Items.cshtml.cs",
+              "DocumentMoniker": "D:\\.net\\Day 8\\WiproAssignment\\WiproAssignment\\Pages\\Items.cshtml.cs",
+              "RelativeDocumentMoniker": "WiproAssignment\\Pages\\Items.cshtml.cs",
+              "ToolTip": "D:\\.net\\Day 8\\WiproAssignment\\WiproAssignment\\Pages\\Items.cshtml.cs",
+              "RelativeToolTip": "WiproAssignment\\Pages\\Items.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwBYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T10:09:41.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Items.cshtml",
+              "DocumentMoniker": "D:\\.net\\Day 8\\WiproAssignment\\WiproAssignment\\Pages\\Items.cshtml",
+              "RelativeDocumentMoniker": "WiproAssignment\\Pages\\Items.cshtml",
+              "ToolTip": "D:\\.net\\Day 8\\WiproAssignment\\WiproAssignment\\Pages\\Items.cshtml",
+              "RelativeToolTip": "WiproAssignment\\Pages\\Items.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-17T10:08:49.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "script.js",
+              "DocumentMoniker": "D:\\.net\\Day 8\\WiproAssignment\\WiproAssignment\\wwwroot\\js\\script.js",
+              "RelativeDocumentMoniker": "WiproAssignment\\wwwroot\\js\\script.js",
+              "ToolTip": "D:\\.net\\Day 8\\WiproAssignment\\WiproAssignment\\wwwroot\\js\\script.js",
+              "RelativeToolTip": "WiproAssignment\\wwwroot\\js\\script.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-17T09:58:53.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "style.css",
+              "DocumentMoniker": "D:\\.net\\Day 8\\WiproAssignment\\WiproAssignment\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "WiproAssignment\\wwwroot\\css\\style.css",
+              "ToolTip": "D:\\.net\\Day 8\\WiproAssignment\\WiproAssignment\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "WiproAssignment\\wwwroot\\css\\style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-17T09:58:21.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "test.html",
+              "DocumentMoniker": "D:\\.net\\Day 8\\WiproAssignment\\WiproAssignment\\wwwroot\\test.html",
+              "RelativeDocumentMoniker": "WiproAssignment\\wwwroot\\test.html",
+              "ToolTip": "D:\\.net\\Day 8\\WiproAssignment\\WiproAssignment\\wwwroot\\test.html",
+              "RelativeToolTip": "WiproAssignment\\wwwroot\\test.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-02-17T09:57:36.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.net\\Day 8\\WiproAssignment\\WiproAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "WiproAssignment\\Program.cs",
+              "ToolTip": "D:\\.net\\Day 8\\WiproAssignment\\WiproAssignment\\Program.cs",
+              "RelativeToolTip": "WiproAssignment\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T09:54:26.837Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

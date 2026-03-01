@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\git\\wipro-training-26\\practice prob\\Day1_practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{569331FF-8E58-436F-8563-39BB65C664F6}|Day1_practice\\Day1_practice.csproj|e:\\git\\wipro-training-26\\practice prob\\day1_practice\\day1_practice\\posnegative.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{569331FF-8E58-436F-8563-39BB65C664F6}|Day1_practice\\Day1_practice.csproj|solutionrelative:day1_practice\\posnegative.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Day1_practice||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{569331FF-8E58-436F-8563-39BB65C664F6}|Day1_practice\\Day1_practice.csproj|e:\\git\\wipro-training-26\\practice prob\\day1_practice\\day1_practice\\voting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{569331FF-8E58-436F-8563-39BB65C664F6}|Day1_practice\\Day1_practice.csproj|solutionrelative:day1_practice\\voting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{569331FF-8E58-436F-8563-39BB65C664F6}|Day1_practice\\Day1_practice.csproj|e:\\git\\wipro-training-26\\practice prob\\day1_practice\\day1_practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{569331FF-8E58-436F-8563-39BB65C664F6}|Day1_practice\\Day1_practice.csproj|solutionrelative:day1_practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{569331FF-8E58-436F-8563-39BB65C664F6}|Day1_practice\\Day1_practice.csproj|e:\\git\\wipro-training-26\\practice prob\\day1_practice\\day1_practice\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Posnegative.cs",
+              "DocumentMoniker": "E:\\git\\wipro-training-26\\practice prob\\Day1_practice\\Day1_practice\\Posnegative.cs",
+              "RelativeDocumentMoniker": "Day1_practice\\Posnegative.cs",
+              "ToolTip": "E:\\git\\wipro-training-26\\practice prob\\Day1_practice\\Day1_practice\\Posnegative.cs",
+              "RelativeToolTip": "Day1_practice\\Posnegative.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T09:29:28.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Day1_practice",
+              "DocumentMoniker": "E:\\git\\wipro-training-26\\practice prob\\Day1_practice\\Day1_practice\\Day1_practice.csproj",
+              "RelativeDocumentMoniker": "Day1_practice\\Day1_practice.csproj",
+              "ToolTip": "E:\\git\\wipro-training-26\\practice prob\\Day1_practice\\Day1_practice\\Day1_practice.csproj",
+              "RelativeToolTip": "Day1_practice\\Day1_practice.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-13T09:28:26.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Voting.cs",
+              "DocumentMoniker": "E:\\git\\wipro-training-26\\practice prob\\Day1_practice\\Day1_practice\\Voting.cs",
+              "RelativeDocumentMoniker": "Day1_practice\\Voting.cs",
+              "ToolTip": "E:\\git\\wipro-training-26\\practice prob\\Day1_practice\\Day1_practice\\Voting.cs",
+              "RelativeToolTip": "Day1_practice\\Voting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T09:25:07.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\git\\wipro-training-26\\practice prob\\Day1_practice\\Day1_practice\\Program.cs",
+              "RelativeDocumentMoniker": "Day1_practice\\Program.cs",
+              "ToolTip": "E:\\git\\wipro-training-26\\practice prob\\Day1_practice\\Day1_practice\\Program.cs",
+              "RelativeToolTip": "Day1_practice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T08:49:09.96Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

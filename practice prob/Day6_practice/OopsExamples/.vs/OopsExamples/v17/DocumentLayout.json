@@ -1,0 +1,460 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\wipro26\\Day6\\OopsExamples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A18195A9-D160-47F1-B4E1-00F8EBAFBA4A}|OopsExamples.csproj|d:\\wipro26\\day6\\oopsexamples\\indexemployex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18195A9-D160-47F1-B4E1-00F8EBAFBA4A}|OopsExamples.csproj|solutionrelative:indexemployex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|OopsExamples||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18195A9-D160-47F1-B4E1-00F8EBAFBA4A}|OopsExamples.csproj|d:\\wipro26\\day6\\oopsexamples\\indexerex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18195A9-D160-47F1-B4E1-00F8EBAFBA4A}|OopsExamples.csproj|solutionrelative:indexerex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18195A9-D160-47F1-B4E1-00F8EBAFBA4A}|OopsExamples.csproj|D:\\wipro26\\Day6\\OopsExamples\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18195A9-D160-47F1-B4E1-00F8EBAFBA4A}|OopsExamples.csproj|solutionrelative:employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18195A9-D160-47F1-B4E1-00F8EBAFBA4A}|OopsExamples.csproj|d:\\wipro26\\day6\\oopsexamples\\nullable3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18195A9-D160-47F1-B4E1-00F8EBAFBA4A}|OopsExamples.csproj|solutionrelative:nullable3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18195A9-D160-47F1-B4E1-00F8EBAFBA4A}|OopsExamples.csproj|d:\\wipro26\\day6\\oopsexamples\\nullable2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18195A9-D160-47F1-B4E1-00F8EBAFBA4A}|OopsExamples.csproj|solutionrelative:nullable2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18195A9-D160-47F1-B4E1-00F8EBAFBA4A}|OopsExamples.csproj|d:\\wipro26\\day6\\oopsexamples\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18195A9-D160-47F1-B4E1-00F8EBAFBA4A}|OopsExamples.csproj|solutionrelative:agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18195A9-D160-47F1-B4E1-00F8EBAFBA4A}|OopsExamples.csproj|d:\\wipro26\\day6\\oopsexamples\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18195A9-D160-47F1-B4E1-00F8EBAFBA4A}|OopsExamples.csproj|solutionrelative:emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18195A9-D160-47F1-B4E1-00F8EBAFBA4A}|OopsExamples.csproj|d:\\wipro26\\day6\\oopsexamples\\nullable1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18195A9-D160-47F1-B4E1-00F8EBAFBA4A}|OopsExamples.csproj|solutionrelative:nullable1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18195A9-D160-47F1-B4E1-00F8EBAFBA4A}|OopsExamples.csproj|D:\\wipro26\\Day6\\OopsExamples\\namecomparator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18195A9-D160-47F1-B4E1-00F8EBAFBA4A}|OopsExamples.csproj|solutionrelative:namecomparator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18195A9-D160-47F1-B4E1-00F8EBAFBA4A}|OopsExamples.csproj|d:\\wipro26\\day6\\oopsexamples\\basiccomparator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18195A9-D160-47F1-B4E1-00F8EBAFBA4A}|OopsExamples.csproj|solutionrelative:basiccomparator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18195A9-D160-47F1-B4E1-00F8EBAFBA4A}|OopsExamples.csproj|D:\\wipro26\\Day6\\OopsExamples\\employsortexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18195A9-D160-47F1-B4E1-00F8EBAFBA4A}|OopsExamples.csproj|solutionrelative:employsortexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18195A9-D160-47F1-B4E1-00F8EBAFBA4A}|OopsExamples.csproj|D:\\wipro26\\Day6\\OopsExamples\\genlistex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18195A9-D160-47F1-B4E1-00F8EBAFBA4A}|OopsExamples.csproj|solutionrelative:genlistex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18195A9-D160-47F1-B4E1-00F8EBAFBA4A}|OopsExamples.csproj|D:\\wipro26\\Day6\\OopsExamples\\sortingexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18195A9-D160-47F1-B4E1-00F8EBAFBA4A}|OopsExamples.csproj|solutionrelative:sortingexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18195A9-D160-47F1-B4E1-00F8EBAFBA4A}|OopsExamples.csproj|D:\\wipro26\\Day6\\OopsExamples\\genex3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18195A9-D160-47F1-B4E1-00F8EBAFBA4A}|OopsExamples.csproj|solutionrelative:genex3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18195A9-D160-47F1-B4E1-00F8EBAFBA4A}|OopsExamples.csproj|D:\\wipro26\\Day6\\OopsExamples\\useauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18195A9-D160-47F1-B4E1-00F8EBAFBA4A}|OopsExamples.csproj|solutionrelative:useauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18195A9-D160-47F1-B4E1-00F8EBAFBA4A}|OopsExamples.csproj|D:\\wipro26\\Day6\\OopsExamples\\dictex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18195A9-D160-47F1-B4E1-00F8EBAFBA4A}|OopsExamples.csproj|solutionrelative:dictex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18195A9-D160-47F1-B4E1-00F8EBAFBA4A}|OopsExamples.csproj|D:\\wipro26\\Day6\\OopsExamples\\dictex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18195A9-D160-47F1-B4E1-00F8EBAFBA4A}|OopsExamples.csproj|solutionrelative:dictex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18195A9-D160-47F1-B4E1-00F8EBAFBA4A}|OopsExamples.csproj|D:\\wipro26\\Day6\\OopsExamples\\genex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18195A9-D160-47F1-B4E1-00F8EBAFBA4A}|OopsExamples.csproj|solutionrelative:genex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18195A9-D160-47F1-B4E1-00F8EBAFBA4A}|OopsExamples.csproj|D:\\wipro26\\Day6\\OopsExamples\\genexample1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18195A9-D160-47F1-B4E1-00F8EBAFBA4A}|OopsExamples.csproj|solutionrelative:genexample1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4F9092-7433-47F0-9872-E95A4F07B63E}|..\\ClsCalculation\\ClsCalculation.csproj|d:\\wipro26\\day6\\clscalculation\\genexample1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ClsCalculation||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4F9092-7433-47F0-9872-E95A4F07B63E}|..\\ClsCalculation\\ClsCalculation.csproj|d:\\wipro26\\day6\\clscalculation\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18195A9-D160-47F1-B4E1-00F8EBAFBA4A}|OopsExamples.csproj|D:\\wipro26\\Day6\\OopsExamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18195A9-D160-47F1-B4E1-00F8EBAFBA4A}|OopsExamples.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18195A9-D160-47F1-B4E1-00F8EBAFBA4A}|OopsExamples.csproj|D:\\wipro26\\Day6\\OopsExamples\\extnex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18195A9-D160-47F1-B4E1-00F8EBAFBA4A}|OopsExamples.csproj|solutionrelative:extnex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18195A9-D160-47F1-B4E1-00F8EBAFBA4A}|OopsExamples.csproj|D:\\wipro26\\Day6\\OopsExamples\\calcmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18195A9-D160-47F1-B4E1-00F8EBAFBA4A}|OopsExamples.csproj|solutionrelative:calcmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18195A9-D160-47F1-B4E1-00F8EBAFBA4A}|OopsExamples.csproj|D:\\wipro26\\Day6\\OopsExamples\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18195A9-D160-47F1-B4E1-00F8EBAFBA4A}|OopsExamples.csproj|solutionrelative:operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18195A9-D160-47F1-B4E1-00F8EBAFBA4A}|OopsExamples.csproj|d:\\wipro26\\day6\\oopsexamples\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IndexEmployEx.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day6\\OopsExamples\\IndexEmployEx.cs",
+              "RelativeDocumentMoniker": "IndexEmployEx.cs",
+              "ToolTip": "D:\\wipro26\\Day6\\OopsExamples\\IndexEmployEx.cs",
+              "RelativeToolTip": "IndexEmployEx.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T08:27:08.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IndexerEx.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day6\\OopsExamples\\IndexerEx.cs",
+              "RelativeDocumentMoniker": "IndexerEx.cs",
+              "ToolTip": "D:\\wipro26\\Day6\\OopsExamples\\IndexerEx.cs",
+              "RelativeToolTip": "IndexerEx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T08:23:44.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Nullable3.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day6\\OopsExamples\\Nullable3.cs",
+              "RelativeDocumentMoniker": "Nullable3.cs",
+              "ToolTip": "D:\\wipro26\\Day6\\OopsExamples\\Nullable3.cs",
+              "RelativeToolTip": "Nullable3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T08:17:14.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Nullable2.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day6\\OopsExamples\\Nullable2.cs",
+              "RelativeDocumentMoniker": "Nullable2.cs",
+              "ToolTip": "D:\\wipro26\\Day6\\OopsExamples\\Nullable2.cs",
+              "RelativeToolTip": "Nullable2.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T08:13:44.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Agent.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day6\\OopsExamples\\Agent.cs",
+              "RelativeDocumentMoniker": "Agent.cs",
+              "ToolTip": "D:\\wipro26\\Day6\\OopsExamples\\Agent.cs",
+              "RelativeToolTip": "Agent.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T08:12:58.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Nullable1.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day6\\OopsExamples\\Nullable1.cs",
+              "RelativeDocumentMoniker": "Nullable1.cs",
+              "ToolTip": "D:\\wipro26\\Day6\\OopsExamples\\Nullable1.cs",
+              "RelativeToolTip": "Nullable1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T08:09:19.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Emp.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day6\\OopsExamples\\Emp.cs",
+              "RelativeDocumentMoniker": "Emp.cs",
+              "ToolTip": "D:\\wipro26\\Day6\\OopsExamples\\Emp.cs",
+              "RelativeToolTip": "Emp.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T08:08:04.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BasicComparator.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day6\\OopsExamples\\BasicComparator.cs",
+              "RelativeDocumentMoniker": "BasicComparator.cs",
+              "ToolTip": "D:\\wipro26\\Day6\\OopsExamples\\BasicComparator.cs",
+              "RelativeToolTip": "BasicComparator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T04:31:58.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NameComparator.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day6\\OopsExamples\\NameComparator.cs",
+              "RelativeDocumentMoniker": "NameComparator.cs",
+              "ToolTip": "D:\\wipro26\\Day6\\OopsExamples\\NameComparator.cs",
+              "RelativeToolTip": "NameComparator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T04:30:13.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OopsExamples",
+              "DocumentMoniker": "D:\\wipro26\\Day6\\OopsExamples\\OopsExamples.csproj",
+              "RelativeDocumentMoniker": "OopsExamples.csproj",
+              "ToolTip": "D:\\wipro26\\Day6\\OopsExamples\\OopsExamples.csproj*",
+              "RelativeToolTip": "OopsExamples.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-14T03:38:15.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employ.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day6\\OopsExamples\\Employ.cs",
+              "RelativeDocumentMoniker": "Employ.cs",
+              "ToolTip": "D:\\wipro26\\Day6\\OopsExamples\\Employ.cs",
+              "RelativeToolTip": "Employ.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T03:57:05.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DictEx2.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day6\\OopsExamples\\DictEx2.cs",
+              "RelativeDocumentMoniker": "DictEx2.cs",
+              "ToolTip": "D:\\wipro26\\Day6\\OopsExamples\\DictEx2.cs",
+              "RelativeToolTip": "DictEx2.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T04:11:23.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UseAuth.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day6\\OopsExamples\\UseAuth.cs",
+              "RelativeDocumentMoniker": "UseAuth.cs",
+              "ToolTip": "D:\\wipro26\\Day6\\OopsExamples\\UseAuth.cs",
+              "RelativeToolTip": "UseAuth.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T04:14:14.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GenEx3.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day6\\OopsExamples\\GenEx3.cs",
+              "RelativeDocumentMoniker": "GenEx3.cs",
+              "ToolTip": "D:\\wipro26\\Day6\\OopsExamples\\GenEx3.cs",
+              "RelativeToolTip": "GenEx3.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T04:20:57.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SortingExample.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day6\\OopsExamples\\SortingExample.cs",
+              "RelativeDocumentMoniker": "SortingExample.cs",
+              "ToolTip": "D:\\wipro26\\Day6\\OopsExamples\\SortingExample.cs",
+              "RelativeToolTip": "SortingExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowBMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T04:25:13.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DictEx1.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day6\\OopsExamples\\DictEx1.cs",
+              "RelativeDocumentMoniker": "DictEx1.cs",
+              "ToolTip": "D:\\wipro26\\Day6\\OopsExamples\\DictEx1.cs",
+              "RelativeToolTip": "DictEx1.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwBEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T04:08:12.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmploySortExample.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day6\\OopsExamples\\EmploySortExample.cs",
+              "RelativeDocumentMoniker": "EmploySortExample.cs",
+              "ToolTip": "D:\\wipro26\\Day6\\OopsExamples\\EmploySortExample.cs",
+              "RelativeToolTip": "EmploySortExample.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T04:27:37.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GenListEx1.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day6\\OopsExamples\\GenListEx1.cs",
+              "RelativeDocumentMoniker": "GenListEx1.cs",
+              "ToolTip": "D:\\wipro26\\Day6\\OopsExamples\\GenListEx1.cs",
+              "RelativeToolTip": "GenListEx1.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T04:05:08.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GenEx2.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day6\\OopsExamples\\GenEx2.cs",
+              "RelativeDocumentMoniker": "GenEx2.cs",
+              "ToolTip": "D:\\wipro26\\Day6\\OopsExamples\\GenEx2.cs",
+              "RelativeToolTip": "GenEx2.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T04:00:13.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GenExample1.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day6\\OopsExamples\\GenExample1.cs",
+              "RelativeDocumentMoniker": "GenExample1.cs",
+              "ToolTip": "D:\\wipro26\\Day6\\OopsExamples\\GenExample1.cs",
+              "RelativeToolTip": "GenExample1.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwCkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T03:52:36.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ClsCalculation",
+              "DocumentMoniker": "D:\\wipro26\\Day6\\ClsCalculation\\ClsCalculation.csproj",
+              "RelativeDocumentMoniker": "..\\ClsCalculation\\ClsCalculation.csproj",
+              "ToolTip": "D:\\wipro26\\Day6\\ClsCalculation\\ClsCalculation.csproj",
+              "RelativeToolTip": "..\\ClsCalculation\\ClsCalculation.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-14T03:51:46.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GenExample1.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day6\\ClsCalculation\\GenExample1.cs",
+              "RelativeDocumentMoniker": "..\\ClsCalculation\\GenExample1.cs",
+              "ToolTip": "D:\\wipro26\\Day6\\ClsCalculation\\GenExample1.cs",
+              "RelativeToolTip": "..\\ClsCalculation\\GenExample1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T03:50:43.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Calculation.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day6\\ClsCalculation\\Calculation.cs",
+              "RelativeDocumentMoniker": "..\\ClsCalculation\\Calculation.cs",
+              "ToolTip": "D:\\wipro26\\Day6\\ClsCalculation\\Calculation.cs",
+              "RelativeToolTip": "..\\ClsCalculation\\Calculation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T03:39:42.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CalcMain.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day6\\OopsExamples\\CalcMain.cs",
+              "RelativeDocumentMoniker": "CalcMain.cs",
+              "ToolTip": "D:\\wipro26\\Day6\\OopsExamples\\CalcMain.cs",
+              "RelativeToolTip": "CalcMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T03:41:04.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ExtnEx1.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day6\\OopsExamples\\ExtnEx1.cs",
+              "RelativeDocumentMoniker": "ExtnEx1.cs",
+              "ToolTip": "D:\\wipro26\\Day6\\OopsExamples\\ExtnEx1.cs",
+              "RelativeToolTip": "ExtnEx1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T03:36:11.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Operations.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day6\\OopsExamples\\Operations.cs",
+              "RelativeDocumentMoniker": "Operations.cs",
+              "ToolTip": "D:\\wipro26\\Day6\\OopsExamples\\Operations.cs",
+              "RelativeToolTip": "Operations.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T03:34:47.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day6\\OopsExamples\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\wipro26\\Day6\\OopsExamples\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T03:33:39.052Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

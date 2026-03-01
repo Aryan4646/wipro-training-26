@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CalcMain/CalcMain.csproj" />
+  <Project Path="ClsCalculation/ClsCalculation.csproj" />
+</Solution>

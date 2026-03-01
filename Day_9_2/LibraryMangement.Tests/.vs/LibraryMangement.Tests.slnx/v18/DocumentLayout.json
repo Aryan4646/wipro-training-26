@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\git\\wipro-training-26\\LibraryMangement.Tests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{846A4803-CCE6-421F-AB62-183AA625F4C3}|LibraryMangement.Tests\\LibraryMangement.Tests.csproj|e:\\git\\wipro-training-26\\librarymangement.tests\\librarymangement.tests\\librarytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{846A4803-CCE6-421F-AB62-183AA625F4C3}|LibraryMangement.Tests\\LibraryMangement.Tests.csproj|solutionrelative:librarymangement.tests\\librarytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibraryTests.cs",
+              "DocumentMoniker": "E:\\git\\wipro-training-26\\LibraryMangement.Tests\\LibraryMangement.Tests\\LibraryTests.cs",
+              "RelativeDocumentMoniker": "LibraryMangement.Tests\\LibraryTests.cs",
+              "ToolTip": "E:\\git\\wipro-training-26\\LibraryMangement.Tests\\LibraryMangement.Tests\\LibraryTests.cs",
+              "RelativeToolTip": "LibraryMangement.Tests\\LibraryTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T07:16:58.12Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

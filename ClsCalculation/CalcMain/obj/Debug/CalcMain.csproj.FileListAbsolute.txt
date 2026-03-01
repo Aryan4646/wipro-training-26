@@ -1,0 +1,10 @@
+E:\git\wipro-training-26\ClsCalculation\CalcMain\bin\Debug\CalcMain.exe.config
+E:\git\wipro-training-26\ClsCalculation\CalcMain\bin\Debug\CalcMain.exe
+E:\git\wipro-training-26\ClsCalculation\CalcMain\bin\Debug\CalcMain.pdb
+E:\git\wipro-training-26\ClsCalculation\CalcMain\bin\Debug\ClsCalculation.dll
+E:\git\wipro-training-26\ClsCalculation\CalcMain\bin\Debug\ClsCalculation.pdb
+E:\git\wipro-training-26\ClsCalculation\CalcMain\obj\Debug\CalcMain.csproj.AssemblyReference.cache
+E:\git\wipro-training-26\ClsCalculation\CalcMain\obj\Debug\CalcMain.csproj.CoreCompileInputs.cache
+E:\git\wipro-training-26\ClsCalculation\CalcMain\obj\Debug\CalcMain.csproj.Up2Date
+E:\git\wipro-training-26\ClsCalculation\CalcMain\obj\Debug\CalcMain.exe
+E:\git\wipro-training-26\ClsCalculation\CalcMain\obj\Debug\CalcMain.pdb

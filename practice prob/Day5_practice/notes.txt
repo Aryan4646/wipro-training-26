@@ -1,0 +1,38 @@
+Files : A file is a collection of data, that which allows you to store the output permanently. To deal with files, we need the help of System.IO namespace. 
+
+FileStream : This class allows you to create/read data from files. 
+
+FileStream fs = new FileStream(filename,FileMode,fileAccess);
+
+FileModes 
+
+	Create : Used to create a new file, if the file already exists it overwrites the content.
+
+	CreateNew : Used to create a new file. if file already exists it throws an exception.
+
+	Open : Used to Open Existing file. 
+
+	OpenOrCreate : Used to open the existing file, if not it creates a file
+
+	Append : Used to add contents at the end of file. 
+
+	Truncate : Used to delete the contents of the file. 
+
+FileAccess : 
+
+	Read
+
+	Write
+
+	ReadWrite
+
+StreamWriter : Used to write text content into the file. 
+
+StreamWriter sw = new StreamWriter(fs);
+
+StreamReader : Used to read the content from the file. 
+
+StreamReader sr = new StreamReader(filename);
+
+
+

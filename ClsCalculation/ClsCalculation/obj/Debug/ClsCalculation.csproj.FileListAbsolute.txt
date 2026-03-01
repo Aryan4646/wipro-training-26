@@ -1,0 +1,6 @@
+E:\git\wipro-training-26\ClsCalculation\ClsCalculation\bin\Debug\ClsCalculation.dll
+E:\git\wipro-training-26\ClsCalculation\ClsCalculation\bin\Debug\ClsCalculation.pdb
+E:\git\wipro-training-26\ClsCalculation\ClsCalculation\obj\Debug\ClsCalculation.csproj.AssemblyReference.cache
+E:\git\wipro-training-26\ClsCalculation\ClsCalculation\obj\Debug\ClsCalculation.csproj.CoreCompileInputs.cache
+E:\git\wipro-training-26\ClsCalculation\ClsCalculation\obj\Debug\ClsCalculation.dll
+E:\git\wipro-training-26\ClsCalculation\ClsCalculation\obj\Debug\ClsCalculation.pdb

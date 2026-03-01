@@ -1,0 +1,7 @@
+E:\git\wipro-training-26\practice prob\Day2_practice\Day2_practice\bin\Debug\Day2_practice.exe.config
+E:\git\wipro-training-26\practice prob\Day2_practice\Day2_practice\bin\Debug\Day2_practice.exe
+E:\git\wipro-training-26\practice prob\Day2_practice\Day2_practice\bin\Debug\Day2_practice.pdb
+E:\git\wipro-training-26\practice prob\Day2_practice\Day2_practice\obj\Debug\Day2_practice.csproj.AssemblyReference.cache
+E:\git\wipro-training-26\practice prob\Day2_practice\Day2_practice\obj\Debug\Day2_practice.csproj.CoreCompileInputs.cache
+E:\git\wipro-training-26\practice prob\Day2_practice\Day2_practice\obj\Debug\Day2_practice.exe
+E:\git\wipro-training-26\practice prob\Day2_practice\Day2_practice\obj\Debug\Day2_practice.pdb

@@ -1,0 +1,6 @@
+E:\git\wipro-training-26\Calculator\Calculator\bin\Debug\Calculator.dll
+E:\git\wipro-training-26\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\git\wipro-training-26\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+E:\git\wipro-training-26\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\git\wipro-training-26\Calculator\Calculator\obj\Debug\Calculator.dll
+E:\git\wipro-training-26\Calculator\Calculator\obj\Debug\Calculator.pdb

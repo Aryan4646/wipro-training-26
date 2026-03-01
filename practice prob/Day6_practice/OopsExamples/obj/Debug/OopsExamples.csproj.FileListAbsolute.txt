@@ -1,0 +1,10 @@
+D:\wipro26\Day6\OopsExamples\bin\Debug\OopsExamples.exe.config
+D:\wipro26\Day6\OopsExamples\bin\Debug\OopsExamples.exe
+D:\wipro26\Day6\OopsExamples\bin\Debug\OopsExamples.pdb
+D:\wipro26\Day6\OopsExamples\obj\Debug\OopsExamples.csproj.AssemblyReference.cache
+D:\wipro26\Day6\OopsExamples\obj\Debug\OopsExamples.csproj.CoreCompileInputs.cache
+D:\wipro26\Day6\OopsExamples\obj\Debug\OopsExamples.exe
+D:\wipro26\Day6\OopsExamples\obj\Debug\OopsExamples.pdb
+D:\wipro26\Day6\OopsExamples\bin\Debug\ClsCalculation.dll
+D:\wipro26\Day6\OopsExamples\bin\Debug\ClsCalculation.pdb
+D:\wipro26\Day6\OopsExamples\obj\Debug\OopsExam.16069488.Up2Date
