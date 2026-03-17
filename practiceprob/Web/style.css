@@ -1,0 +1,43 @@
+/* Basic Styling */
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+#todo-form {
+    margin-bottom: 20px;
+}
+
+#todo-input {
+    padding: 10px;
+    margin-right: 10px;
+}
+
+#todo-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+#todo-list li {
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-bottom: 5px;
+}
+
+/* Button Styling */
+button {
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#counter-container {
+    margin: 20px 0;
+}
+
+#count {
+    font-size: 20px;
+    margin: 0 15px;
+}

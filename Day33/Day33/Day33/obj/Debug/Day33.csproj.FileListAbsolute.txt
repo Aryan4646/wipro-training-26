@@ -1,0 +1,7 @@
+E:\git\wipro-training-26\Day33\Day33\Day33\bin\Debug\Day33.exe.config
+E:\git\wipro-training-26\Day33\Day33\Day33\bin\Debug\Day33.exe
+E:\git\wipro-training-26\Day33\Day33\Day33\bin\Debug\Day33.pdb
+E:\git\wipro-training-26\Day33\Day33\Day33\obj\Debug\Day33.csproj.AssemblyReference.cache
+E:\git\wipro-training-26\Day33\Day33\Day33\obj\Debug\Day33.csproj.CoreCompileInputs.cache
+E:\git\wipro-training-26\Day33\Day33\Day33\obj\Debug\Day33.exe
+E:\git\wipro-training-26\Day33\Day33\Day33\obj\Debug\Day33.pdb
